@@ -1,2 +1,3 @@
-<body style="background-repeat: no-repeat; background-size: cover; background-image: url(/petclinic/resources/images/accenture9.jpg)"> 
+<body class="page-template-default page page-id-29741 page-child parent-pageid-28723 et_pb_button_helper_class et_transparent_nav et_fixed_nav et_show_nav et_cover_background et_secondary_nav_enabled et_secondary_nav_two_panels et_pb_side_nav_page et_pb_gutter windows et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_left et_pb_pagebuilder_layout et_right_sidebar et_divi_theme chrome">
+<!--<body style="background-repeat: no-repeat; background-size: cover; background-image: url(/petclinic/resources/images/accenture9.jpg)"> -->
 <!-- body style="background-repeat: no-repeat; background-size: cover; background-image: url(/petclinic/resources/images/accenture14.jpg)" -->
