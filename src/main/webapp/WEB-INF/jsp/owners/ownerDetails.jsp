@@ -19,10 +19,10 @@
     <jsp:include page="../fragments/bodyHeader.jsp"/>
 
     <h2>Owner Information</h2>
-
+     <h1>HOLA MUNDO soy owner details</h1>
     <table class="table table-striped" style="width:600px;">
         <tr>
-            <th>Name</th>
+            <th>Esto debe estar mal</th>
             <td><b><c:out value="${owner.firstName} ${owner.lastName}"/></b></td>
         </tr>
         <tr>
