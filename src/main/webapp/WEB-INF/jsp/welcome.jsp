@@ -67,9 +67,9 @@
                     <img src="/petclinic/resources/styles/bg-8v1.jpg" data-id="login-cover-image" alt="">
                 </div>
                 <div class="news-caption">
-                    <h4 class="caption-title"><i class="fa fa-building-o text-success"></i> Welcome to the DSS Demo</h4>
+                    <h4 class="caption-title"><i class="fa fa-building-o text-success"></i> Welcome to the Landlord Management System</h4>
                     <p>
-                        Welcome to the New York City Department of Homeless Services Landlord Portal
+                        New York City Department of Social Services Landlord Portal
                     </p>
                 </div>
             </div>
@@ -80,8 +80,8 @@
                 <div class="login-header">
                     <div class="brand">
                         <img src="/petclinic/resources/styles/DSS_ITS_clear-bg.png" alt="DSS_ITS_logo" width="143" height="100"><br>
-                        DSS ITS Demo
-                        <small>Please sign into the Demo</small>
+                        DSS LMS Demo
+                        <small>Please sign in</small>
                     </div>
                     <div class="icon">
                         <i class="fa fa-sign-in"></i>
@@ -114,7 +114,7 @@
                         </div>
                         <hr>
                         <p class="text-center">
-                            © DSS ITS Demo All Right Reserved 2017
+                            © DSS LMS Demo All Right Reserved 2018
                         </p>
                     </form>
                 </div>
