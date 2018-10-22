@@ -146,22 +146,22 @@
 
       
       <div id="u14" class="ax_default box_1">
-        <img id="u14_img" class="img " src="https://d2v8ggac1o0f6z.cloudfront.net/gsc/ZWAFEJ/51/98/cf/5198cfbbc705441eae3ea9b15db8bcd3/images/bank_account_info/u4.png?token=0772ee19feee84bafeb6a5744733bd6a">
+        <img id="u14_img" class="img " src="/petclinic/resources/styles/u4.png?token=0772ee19feee84bafeb6a5744733bd6a">
       </div>
 
       <!-- Unnamed (Ellipse) -->
       <div id="u15" class="ax_default ellipse">
-        <img id="u15_img" class="img " src="https://d2t44wh9rnwl5y.cloudfront.net/gsc/ZWAFEJ/51/98/cf/5198cfbbc705441eae3ea9b15db8bcd3/images/bank_account_info/u15.png?token=a52cd9432d3480649af28aa83ca6a812">
+        <img id="u15_img" class="img " src="/petclinic/resources/styles/u15.png?token=a52cd9432d3480649af28aa83ca6a812">
       </div>
 
       <!-- Unnamed (Ellipse) -->
       <div id="u16" class="ax_default ellipse">
-        <img id="u16_img" class="img " src="https://d2t44wh9rnwl5y.cloudfront.net/gsc/ZWAFEJ/51/98/cf/5198cfbbc705441eae3ea9b15db8bcd3/images/bank_account_info/u15.png?token=a52cd9432d3480649af28aa83ca6a812">
+        <img id="u16_img" class="img " src="/petclinic/resources/styles/u15.png?token=a52cd9432d3480649af28aa83ca6a812">
       </div>
 
       <!-- Unnamed (Ellipse) -->
       <div id="u17" class="ax_default ellipse">
-        <img id="u17_img" class="img " src="https://d2t44wh9rnwl5y.cloudfront.net/gsc/ZWAFEJ/51/98/cf/5198cfbbc705441eae3ea9b15db8bcd3/images/bank_account_info/u17.png?token=c7e384d28f7464966a7fc85e276bdc5f">
+        <img id="u17_img" class="img " src="/petclinic/resources/styles/u17.png?token=c7e384d28f7464966a7fc85e276bdc5f">
         <div id="u17_text" class="text ">
           <p><span>JS</span></p>
         </div>

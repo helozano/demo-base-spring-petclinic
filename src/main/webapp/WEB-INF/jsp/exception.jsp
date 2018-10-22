@@ -68,12 +68,12 @@
 
       <!-- Unnamed (Image) -->
       <div id="u69" class="ax_default image">
-        <img id="u69_img" class="img " src="https://d2t44wh9rnwl5y.cloudfront.net/gsc/ZWAFEJ/02/dc/d3/02dcd31332b047a6872dd3f2ddab6cd8/images/home_page/u69.png?token=d0fcd4231984c10826b54f3d29021df3">
+        <img id="u69_img" class="img " src="/petclinic/resources/styles/u69.png?token=d0fcd4231984c10826b54f3d29021df3">
       </div>
 
       <!-- Unnamed (Triangle) -->
       <div id="u70" class="ax_default box_1">
-        <img id="u70_img" class="img " src="https://d26uhratvi024l.cloudfront.net/gsc/ZWAFEJ/02/dc/d3/02dcd31332b047a6872dd3f2ddab6cd8/images/home_page/u70.png?token=c8feb239b5ce12519fa7ccb5f69fa98b">
+        <img id="u70_img" class="img " src="/petclinic/resources/styles/u70.png?token=c8feb239b5ce12519fa7ccb5f69fa98b">
       </div>
 
       <!-- Unnamed (Rectangle) -->
@@ -114,22 +114,22 @@
 
       <!-- Unnamed (Triangle) -->
       <div id="u77" class="ax_default box_1">
-        <img id="u77_img" class="img " src="https://d26uhratvi024l.cloudfront.net/gsc/ZWAFEJ/02/dc/d3/02dcd31332b047a6872dd3f2ddab6cd8/images/home_page/u70.png?token=c8feb239b5ce12519fa7ccb5f69fa98b">
+        <img id="u77_img" class="img " src="/petclinic/resources/styles/u70.png?token=c8feb239b5ce12519fa7ccb5f69fa98b">
       </div>
 
       <!-- Unnamed (Ellipse) -->
       <div id="u78" class="ax_default ellipse">
-        <img id="u78_img" class="img " src="https://d26uhratvi024l.cloudfront.net/gsc/ZWAFEJ/02/dc/d3/02dcd31332b047a6872dd3f2ddab6cd8/images/home_page/u78.png?token=d416181f82f1d9b3c8fc043a2f9a394b">
+        <img id="u78_img" class="img " src="/petclinic/resources/styles/u78.png?token=d416181f82f1d9b3c8fc043a2f9a394b">
       </div>
 
       <!-- Unnamed (Ellipse) -->
       <div id="u79" class="ax_default ellipse">
-        <img id="u79_img" class="img " src="https://d26uhratvi024l.cloudfront.net/gsc/ZWAFEJ/02/dc/d3/02dcd31332b047a6872dd3f2ddab6cd8/images/home_page/u78.png?token=d416181f82f1d9b3c8fc043a2f9a394b">
+        <img id="u79_img" class="img " src="/petclinic/resources/styles/u78.png?token=d416181f82f1d9b3c8fc043a2f9a394b">
       </div>
 
       <!-- Unnamed (Ellipse) -->
       <div id="u80" class="ax_default ellipse">
-        <img id="u80_img" class="img " src="https://d2v8ggac1o0f6z.cloudfront.net/gsc/ZWAFEJ/02/dc/d3/02dcd31332b047a6872dd3f2ddab6cd8/images/home_page/u80.png?token=e66e26bff27edc8db54606d1146431c0">
+        <img id="u80_img" class="img " src="/petclinic/resources/styles/u80.png?token=e66e26bff27edc8db54606d1146431c0">
         <div id="u80_text" class="text ">
           <p><span>JS</span></p>
         </div>
@@ -186,12 +186,12 @@
 
       <!-- Unnamed (Image) -->
       <div id="u87" class="ax_default image">
-        <img id="u87_img" class="img " src="https://d2v8ggac1o0f6z.cloudfront.net/gsc/ZWAFEJ/02/dc/d3/02dcd31332b047a6872dd3f2ddab6cd8/images/home_page/u87.png?token=5f12fef3dc2e65a919264a23c8cfd040">
+        <img id="u87_img" class="img " src="/petclinic/resources/styles/u87.png?token=5f12fef3dc2e65a919264a23c8cfd040">
       </div>
 
       <!-- Unnamed (Image) -->
       <div id="u88" class="ax_default image">
-        <img id="u88_img" class="img " src="https://d2v8ggac1o0f6z.cloudfront.net/gsc/ZWAFEJ/02/dc/d3/02dcd31332b047a6872dd3f2ddab6cd8/images/home_page/u88.png?token=2894966e136a0fec389f149699b4c5a0">
+        <img id="u88_img" class="img " src="/petclinic/resources/styles/u88.png?token=2894966e136a0fec389f149699b4c5a0">
       </div>
 
       <!-- Unnamed (Rectangle) -->
@@ -230,7 +230,7 @@
 
       <!-- Unnamed (Shape) -->
       <div id="u94" class="ax_default icon">
-        <img id="u94_img" class="img " src="https://dxlfb468n8ekd.cloudfront.net/gsc/ZWAFEJ/02/dc/d3/02dcd31332b047a6872dd3f2ddab6cd8/images/home_page/u94.png?token=edea63698a46ff9b83345072cce4a2d3">
+        <img id="u94_img" class="img " src="/petclinic/resources/styles/u94.png?token=edea63698a46ff9b83345072cce4a2d3">
       </div>
 
       <!-- Unnamed (Rectangle) -->
@@ -285,7 +285,7 @@
 
       <!-- Unnamed (Image) -->
       <div id="u102" class="ax_default image">
-        <img id="u102_img" class="img " src="https://d2t44wh9rnwl5y.cloudfront.net/gsc/ZWAFEJ/02/dc/d3/02dcd31332b047a6872dd3f2ddab6cd8/images/home_page/u102.png?token=ea627a6fe673c10d36234f6d0015bfa0">
+        <img id="u102_img" class="img " src="/petclinic/resources/styles/u102.png?token=ea627a6fe673c10d36234f6d0015bfa0">
       </div>
 
       <!-- Unnamed (Rectangle) -->
@@ -310,7 +310,7 @@
       <div id="u106" class="ax_default paragraph">
         <div id="u106_div" class=""></div>
         <div id="u106_text" class="text ">
-          <p><span>View Payments</span></p>
+          <p><span>View Buildings</span></p>
         </div>
       </div>
 
@@ -348,7 +348,7 @@
 
       <!-- Unnamed (Image) -->
       <div id="u111" class="ax_default image">
-        <img id="u111_img" class="img " src="https://d26uhratvi024l.cloudfront.net/gsc/ZWAFEJ/02/dc/d3/02dcd31332b047a6872dd3f2ddab6cd8/images/home_page/u111.png?token=449d8fec55bfc37bfedd380b24065de3">
+        <img id="u111_img" class="img " src="/petclinic/resources/styles/u111.png?token=449d8fec55bfc37bfedd380b24065de3">
       </div>
     </div>
   
